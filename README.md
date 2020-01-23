@@ -1,4 +1,4 @@
-# Example to creating animation movie by ffmpeg
+# Example to create animation movie by ffmpeg
 
 ## input.txt
 
