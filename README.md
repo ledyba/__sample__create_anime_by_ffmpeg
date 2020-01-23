@@ -1,7 +1,5 @@
 # Example to create animation movie by ffmpeg
 
-## gif version
-
 <img src="out.gif">
 
 Animated gif is an de-facto standard format to embed animation in the web, however, it can handle just 256 colors(!), and compression rate is not so good.
